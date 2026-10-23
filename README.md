@@ -61,7 +61,7 @@ BarterHub is deployed in production with automated continuous integration and co
 | Component | Provider / Infrastructure | Link / Endpoint |
 | :--- | :--- | :--- |
 | **Live Web Application** | **Vercel** (Next.js 14 App Router) | [barter-hub-eb6t-36e8czbcd-h4r5h1l-27s-projects.vercel.app](https://barter-hub-eb6t-36e8czbcd-h4r5h1l-27s-projects.vercel.app/) |
-| **Source Code Repository** | **GitHub** | [github.com/H4R5H1L-27/BarterHub](https://github.com/H4R5H1L-27/BarterHub) |
+| **Source Code Repository** | **GitHub** | [github.com/H4R5H1L-27/baterhub-prisma](https://github.com/H4R5H1L-27/baterhub-prisma) |
 | **Primary Relational DB** | **Neon** (Serverless PostgreSQL 16) | Fully managed cloud PostgreSQL with pooling |
 | **Network Graph DB** | **Neo4j** (AuraDB / Container) | High-performance Cypher multi-party swap graph engine |
 
@@ -500,8 +500,8 @@ productexchangeplat/
 
 ### 1. Clone & Install Dependencies
 ```bash
-git clone https://github.com/H4R5H1L-27/BarterHub.git
-cd BarterHub
+git clone https://github.com/H4R5H1L-27/baterhub-prisma.git
+cd baterhub-prisma
 npm install
 ```
 
